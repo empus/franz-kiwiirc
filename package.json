@@ -1,13 +1,13 @@
 {
-  "id": "kiwiirc",
-  "name": "KiwiIRC",
+  "id": "undernet",
+  "name": "Undernet",
   "version": "1.0.0",
-  "description": "Kiwi IRC",
+  "description": "Undernet Connect",
   "main": "index.js",
   "author": "Tiago Alves <tralves@gmail.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://kiwiirc.com/nextclient/",
+    "serviceURL": "https://chat.undernet.org/",
     "hasNotificationSound": true
   }
 }
